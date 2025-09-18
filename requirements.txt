@@ -1,0 +1,9 @@
+numpy
+speechrecognition
+pyttsx3
+scikit-learn
+opencv-python
+pyaudio
+openai
+xai-sdk
+httpx
